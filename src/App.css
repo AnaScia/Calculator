@@ -1,0 +1,41 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.calculadora-logo-container{
+  margin:8px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculadora-logo{
+  height: 40px;
+}
+
+.calculadora-container-principal{
+  /* min-width: 600px; */
+  /* display:flex;
+  flex-wrap:wrap;
+  align-items: center;
+  justify-content: center; */
+  width:400px;
+  height:600px;
+  margin:auto;
+  background-color: skyblue;
+  border-radius:20px;
+  border:5px solid black;
+}
+
+.fila{
+  margin: 4px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
